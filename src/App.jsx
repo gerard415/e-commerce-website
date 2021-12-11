@@ -3,9 +3,10 @@ import ProductList from './pages/productList'
 import Product from './pages/SingleProduct'
 import Register from './pages/register'
 import Login from './pages/login'
+import Cart from './pages/cart'
 
 const App = () => {
-  return    <Login/>
+  return    <ProductList/>
   
 };
 
